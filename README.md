@@ -5,7 +5,7 @@ This is a simple photography website created as a mini project using HTML and CS
 
 Features:-
 - Navigation: Easy navigation through different sections of the website.
-- CSS Styling:Custom styles applied for a professional look and feel.
+- CSS Styling: Custom styles applied for a professional look and feel.
 
 Technologies Used:-
 - HTML5
