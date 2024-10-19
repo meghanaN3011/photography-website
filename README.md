@@ -31,7 +31,9 @@ Feel free to explore the website, and enjoy the photography. You can also custom
 
 Author
 
-Meghana N  
+Meghana N 
+https://github.com/meghanaN3011
+www.linkedin.com/in/meghana-n3011
  
 
 
