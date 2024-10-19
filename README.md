@@ -8,7 +8,10 @@ Features:-
 - CSS Styling: Custom styles applied for a professional look and feel.
 
 Preview:-
+
 ![image](https://github.com/user-attachments/assets/7a1eb9b4-e6a1-401f-b615-680608d977d3)
+
+
 ![image](https://github.com/user-attachments/assets/712d4326-f5e2-4ddc-b8ab-6cda3fad2fb8)
 
 Technologies Used:-
