@@ -1,6 +1,7 @@
 PHOTOGRAPHY WEBSITE
 
 Overview:-
+
 This is a simple photography website created as a mini project using HTML and CSS. The website showcases an elegant interface for users to explore and appreciate the art of photography.
 
 Features:-
@@ -30,11 +31,15 @@ To view the website locally, follow these steps:
 3. Open `index.html` in your preferred web browser.
 
 Usage:-
+
 Feel free to explore the website, and enjoy the photography. You can also customize the content by adding your own images and modifying the HTML/CSS files.
 
 Author:-
+
 Meghana N 
+
 https://github.com/meghanaN3011
+
 www.linkedin.com/in/meghana-n3011
 
 
