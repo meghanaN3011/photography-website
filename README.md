@@ -20,6 +20,7 @@ Technologies Used:-
 - CSS3
 
 Installation:-
+
 To view the website locally, follow these steps:
 
 1. Clone this repository to your local machine:
