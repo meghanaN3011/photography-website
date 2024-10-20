@@ -1,8 +1,8 @@
-## PHOTOGRAPHY WEBSITE
+## PHOTOGRAPHY WEBSITE📷
 
 ## Overview:-
 
-This is a simple photography website created as a mini project using HTML and CSS. The website showcases an elegant interface for users to explore and appreciate the art of photography.
+This is a simple photography website created as a mini project using **HTML** and **CSS**. The website showcases an elegant interface for users to explore and appreciate the art of photography.
 
 ## Features:-
 - Navigation: Easy navigation through different sections of the website.
