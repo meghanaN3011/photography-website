@@ -1,4 +1,4 @@
-## PHOTOGRAPHY WEBSITE📷
+## PHOTOGRAPHY WEBSITE 📸
 
 ## Overview:-
 
